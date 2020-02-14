@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Amon</string>
+    <string name="Отправить">Отправить</string>
+    <string name="Пост">Введите сообщение...</string>
+</resources>
